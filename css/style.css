@@ -33,5 +33,20 @@ footer {
     height: 150px;
 }
 
+@media screen and (min-width: 480px) {
+header {
+    background-color: black;
+ }    
+}
 
+@media screen and (min-width: 768px) {
+header {
+    background-color: burlywood;
+}    
+}
 
+@media screen and (min-width: 1024px) {
+header {
+    background-color: darkorange;
+ }    
+}
